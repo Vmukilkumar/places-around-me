@@ -183,4 +183,4 @@ Sri ranga theatre is the best theatre around neyveli.This theatre can make its c
 
 ![output](./ss/out5.jpeg)
 ## Result:
-Write your result
+ hence, the required output is given
